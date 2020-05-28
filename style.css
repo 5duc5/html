@@ -1,0 +1,18 @@
+.container{
+	width: 90%;
+	height: 120px;
+	border: 1px;
+	border-color: lightblue;
+	display: grid;
+}
+.topside {
+    background-color: lightblue;
+    border: 1px;
+    width: auto;
+    height: 20px;
+    background-color: lightblue;
+}
+.modal-header{
+	background-color:lightblue;
+	color: white;
+}

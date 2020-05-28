@@ -1,0 +1,21 @@
+body{
+	background-color: lightblue;
+	text-align: center;
+}
+form{
+	display: center;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 160px;
+}
+form input{
+	width: 90%;
+}
+form button{
+	background-color: lightblue;
+	color: white;
+	width: 90%;
+	margin: 10px;
+}
